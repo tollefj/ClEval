@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: tollefTokenizer
+Version: 0.1
+Summary: nltk-based tokenizer
+Home-page: UNKNOWN
+Author: Tollef Jørgensen
+Author-email: tollefj@gmail.com
+License: MIT License: http://opensource.org/licenses/MIT
+Description: UNKNOWN
+Keywords: nltk,tokenizer
+Platform: UNKNOWN
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Scientific/Engineering :: Information Analysis
+Classifier: Topic :: Text Processing :: Linguistic
+Classifier: Topic :: Text Processing :: General

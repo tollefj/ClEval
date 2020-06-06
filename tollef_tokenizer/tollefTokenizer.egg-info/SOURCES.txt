@@ -1,0 +1,6 @@
+setup.py
+tollefTokenizer.egg-info/PKG-INFO
+tollefTokenizer.egg-info/SOURCES.txt
+tollefTokenizer.egg-info/dependency_links.txt
+tollefTokenizer.egg-info/requires.txt
+tollefTokenizer.egg-info/top_level.txt
