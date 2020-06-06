@@ -1,0 +1,3 @@
+[submodule "CorefLite"]
+	path = CorefLite
+	url = git@github.com:ph10m/CorefLite.git
