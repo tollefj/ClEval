@@ -9,7 +9,7 @@ ___
   - extract the `.tar.gz` file into a created "pretrained/allen-spanbert-large" directory.
 - Download CoreNLP
   - Follow instructions [here](https://stanfordnlp.github.io/CoreNLP/download.html)
-  - The CoreNLP server is required to run the coreference modules in the [Model Wrapper directory](.Model Wrappers)
+  - The CoreNLP server is required to run the coreference modules in the `Model Wrappers` directory.
 - Download NeuralCoref
   - For the pip version, this can be installed by:
     - `pip install neuralcoref`
@@ -17,7 +17,7 @@ ___
 
 ___
 ### Evaluation
-Most of the evaluation happens in the [Evaluation Notebook](.CorefLiteEvaluation.ipynb).
+Most of the evaluation happens in the [Evaluation Notebook](CorefLiteEvaluation.ipynb).
 These require access to the datasets, which are set to be downloaded in the parent directory of where the `CL-Eval` framework is installed, in a folder named `coreference_data`.
 Data may be sent upon request, but some datasets, e.g. OntoNotes and PreCo, are licensed, and can be obtained through https://catalog.ldc.upenn.edu/LDC2013T19 and https://preschool-lab.github.io/PreCo/.
 The datasets Litbank and GUM are openly available: https://github.com/dbamman/litbank https://github.com/amir-zeldes/gum
