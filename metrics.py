@@ -3,7 +3,8 @@ Accessed 13.04.20 by Tollef Jørgensen
 Source: https://github.com/kentonl/e2e-coref/blob/master/metrics.py
 Heavily based on the work by Clark Manning: https://github.com/clarkkev/deep-coref/blob/master/evaluation.py 
 
-No changes have been made.
+This metric class has been modified to support more detailed runs with both LEA and CoNLL,
+as well as pretty-printing the output in the `detailed_score` function
 
 the update function has been updated according to the original implementation by Manning.
 as well as the function "print_scores"
